@@ -1,0 +1,321 @@
+author_id,rating,is_recommended,submission_time,review_title,review_text,skin_type,product_id,product_name,brand_name,price_usd
+A943702118,5,1.0,2019-01-01,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A491079829,5,1.0,2019-01-04,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A918150683,3,0.0,2019-01-07,Pimples,"Gave me pimples on my forehead, had to stop using it.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A824132709,3,0.0,2019-01-29,Greasy mess,"Way too rich for me, my face was an oil slick within an hour.",oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A726745401,5,1.0,2019-02-04,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A842800803,5,1.0,2019-02-05,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,dry,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A466932310,5,1.0,2019-02-07,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,dry,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A219385981,5,1.0,2019-02-08,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A961393416,5,1.0,2019-02-20,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A799145494,5,1.0,2019-02-28,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A207765664,5,1.0,2019-03-17,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",dry,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A379995032,5,1.0,2019-03-23,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,normal,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A368830491,3,0.0,2019-03-23,Too harsh,"Way too harsh, my skin felt stripped and dry after cleansing.",combination,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A436146289,4,1.0,2019-03-28,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",oily,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A567013808,3,1.0,2019-03-28,Too harsh,"Way too harsh, my skin felt stripped and dry after cleansing.",dry,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A591819409,5,1.0,2019-03-30,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A224683417,3,0.0,2019-04-03,Pimples,"Gave me pimples on my forehead, had to stop using it.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A963251765,5,1.0,2019-04-03,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A349957310,1,0.0,2019-04-04,Greasy mess,"Way too rich for me, my face was an oil slick within an hour.",oily,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A484897084,5,1.0,2019-04-05,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,oily,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A233654018,5,1.0,2019-04-08,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A207959268,5,1.0,2019-04-18,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,normal,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A532311310,1,0.0,2019-04-21,Broke me out,Broke me out within a week. Tiny bumps all over my chin.,oily,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A530747414,5,1.0,2019-04-25,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,oily,P900011,Marula Face Oil,Velda,48.0
+A134075063,3,1.0,2019-05-04,Smell is too strong,The fragrance is overwhelming and gave me a headache.,dry,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A546434187,5,1.0,2019-05-12,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A243247463,5,1.0,2019-05-19,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A735032128,5,1.0,2019-05-20,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,combination,P900011,Marula Face Oil,Velda,48.0
+A228727266,5,1.0,2019-05-21,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A551034639,4,1.0,2019-05-22,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",normal,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A161085229,4,1.0,2019-06-01,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A970281936,4,1.0,2019-06-01,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A596832859,5,1.0,2019-06-07,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,oily,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A916690353,4,1.0,2019-06-11,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,oily,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A235497187,4,1.0,2019-06-15,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A475767056,4,1.0,2019-06-17,Great daily wash,Rinses off easily and my skin feels balanced after.,combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A971630639,5,1.0,2019-06-24,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A893158610,3,0.0,2019-07-03,Not worth it,Nice enough but not worth the price for such a small jar.,oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A773715057,5,1.0,2019-07-06,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A226128312,5,1.0,2019-07-10,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,normal,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A370578414,5,1.0,2019-07-13,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900011,Marula Face Oil,Velda,48.0
+A541417711,5,1.0,2019-07-18,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A366578178,5,1.0,2019-07-18,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A247746438,2,0.0,2019-07-22,Pimples,"Gave me pimples on my forehead, had to stop using it.",dry,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A406084084,4,1.0,2019-07-30,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",normal,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A223940587,2,0.0,2019-08-01,Broke me out,Broke me out within a week. Tiny bumps all over my chin.,oily,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A844826434,3,1.0,2019-08-03,Stings,"Burned and stung on application, I think it's the scent.",dry,P900011,Marula Face Oil,Velda,48.0
+A662600500,5,1.0,2019-08-05,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A387195524,4,1.0,2019-08-06,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A717199615,5,1.0,2019-08-07,Great daily wash,Rinses off easily and my skin feels balanced after.,oily,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A525904456,5,1.0,2019-08-10,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A223357166,5,1.0,2019-08-10,Great daily wash,Rinses off easily and my skin feels balanced after.,combination,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A250519597,5,1.0,2019-08-12,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900011,Marula Face Oil,Velda,48.0
+A714933740,5,1.0,2019-08-18,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A796091085,5,1.0,2019-08-19,Great daily wash,Rinses off easily and my skin feels balanced after.,combination,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A910943524,5,1.0,2019-09-06,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,oily,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A167438668,5,1.0,2019-09-07,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A991010113,1,0.0,2019-09-15,Way too heavy,This just sat on top of my skin and looked greasy by noon.,combination,P900011,Marula Face Oil,Velda,48.0
+A168244921,4,1.0,2019-09-17,Broke me out,"Love the packaging and it's fine overall, but broke me out within a week. Tiny bumps all over my chin.",combination,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A415081566,4,1.0,2019-10-04,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",normal,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A379340713,1,0.0,2019-10-05,Smell is too strong,The fragrance is overwhelming and gave me a headache.,normal,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A502074351,5,1.0,2019-10-05,Great daily wash,Rinses off easily and my skin feels balanced after.,combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A730651895,5,1.0,2019-10-05,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A645127678,4,1.0,2019-10-09,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A616030284,4,1.0,2019-10-11,Way too heavy,"Love the packaging and it's fine overall, but this just sat on top of my skin and looked greasy by noon.",oily,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A252336745,4,1.0,2019-10-21,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A491541578,5,1.0,2019-10-31,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,normal,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A452150647,5,1.0,2019-11-02,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A199585092,4,1.0,2019-11-15,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",dry,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A870530217,5,1.0,2019-11-15,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A571537429,5,1.0,2019-12-06,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A222978730,4,1.0,2019-12-10,Clogged pores,"Love the packaging and it's fine overall, but felt heavy and I think it clogged my pores. Had to wash it off.",oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A993381017,5,1.0,2019-12-18,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A686556403,5,1.0,2019-12-21,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A538642403,4,1.0,2019-12-22,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A294872482,5,1.0,2019-12-25,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A946066287,3,1.0,2019-12-27,Smell is too strong,The fragrance is overwhelming and gave me a headache.,dry,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A366338529,2,0.0,2020-01-14,Too harsh,"Way too harsh, my skin felt stripped and dry after cleansing.",normal,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A771527524,5,1.0,2020-01-20,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A773728014,4,1.0,2020-01-25,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A653388913,2,0.0,2020-02-13,Pimples,"Gave me pimples on my forehead, had to stop using it.",combination,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A570423569,5,1.0,2020-02-21,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,oily,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A479759538,1,0.0,2020-03-06,Clogged pores,Felt heavy and I think it clogged my pores. Had to wash it off.,oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A506919288,5,1.0,2020-03-13,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,dry,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A703462253,5,1.0,2020-03-14,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A627422192,4,1.0,2020-03-15,Stings,"Love the packaging and it's fine overall, but burned and stung on application, I think it's the scent.",oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A402104065,4,1.0,2020-03-16,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A206681214,5,1.0,2020-03-20,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,normal,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A153921577,5,1.0,2020-03-24,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A264481748,5,1.0,2020-03-28,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A545492166,4,1.0,2020-03-30,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A149621604,1,0.0,2020-04-05,Not worth it,Nice enough but not worth the price for such a small jar.,normal,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A397721596,4,1.0,2020-04-22,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,normal,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A424211872,5,1.0,2020-04-27,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,combination,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A694875990,2,0.0,2020-04-29,Way too heavy,This just sat on top of my skin and looked greasy by noon.,oily,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A678998028,5,1.0,2020-05-02,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900011,Marula Face Oil,Velda,48.0
+A599326438,5,1.0,2020-05-03,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,normal,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A494966219,5,1.0,2020-05-04,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A304666325,5,1.0,2020-05-14,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A906341966,4,1.0,2020-05-14,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A282518553,5,1.0,2020-05-15,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",dry,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A901611993,2,0.0,2020-06-10,Stings,"Burned and stung on application, I think it's the scent.",oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A148578655,5,1.0,2020-06-25,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A452794611,4,1.0,2020-06-26,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A554200826,2,0.0,2020-06-27,Pimples,"Gave me pimples on my forehead, had to stop using it.",,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A471178705,5,1.0,2020-06-27,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",normal,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A673528321,5,1.0,2020-06-30,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A992329618,5,1.0,2020-07-12,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A460916347,5,1.0,2020-07-12,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A476908532,2,0.0,2020-07-13,Pimples,"Gave me pimples on my forehead, had to stop using it.",combination,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A351785565,5,1.0,2020-07-16,Great daily wash,Rinses off easily and my skin feels balanced after.,normal,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A945805127,2,0.0,2020-07-19,Greasy mess,"Way too rich for me, my face was an oil slick within an hour.",oily,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A784095277,5,1.0,2020-07-20,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,normal,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A788785773,2,0.0,2020-07-24,Pimples,"Gave me pimples on my forehead, had to stop using it.",dry,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A977130288,2,0.0,2020-07-31,Too harsh,"Way too harsh, my skin felt stripped and dry after cleansing.",dry,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A808605988,3,1.0,2020-08-02,Clogged pores,Felt heavy and I think it clogged my pores. Had to wash it off.,oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A200273738,5,1.0,2020-08-04,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",normal,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A565973314,1,0.0,2020-08-11,Irritated,Made my cheeks red and itchy. Wish it was fragrance free.,normal,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A574997731,2,0.0,2020-08-12,Way too heavy,This just sat on top of my skin and looked greasy by noon.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A902100304,5,1.0,2020-08-15,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,oily,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A709844411,2,0.0,2020-08-15,Smell is too strong,The fragrance is overwhelming and gave me a headache.,oily,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A358303887,5,1.0,2020-08-19,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A108695125,5,1.0,2020-08-27,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A903132646,4,1.0,2020-08-30,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A313579170,3,0.0,2020-09-03,Clogged pores,Felt heavy and I think it clogged my pores. Had to wash it off.,oily,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A856881618,5,1.0,2020-09-03,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,combination,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A735449477,5,1.0,2020-09-12,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A679800791,3,1.0,2020-09-14,Pimples,"Gave me pimples on my forehead, had to stop using it.",dry,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A642716859,5,1.0,2020-09-23,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,dry,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A936571442,2,0.0,2020-09-27,Not enough,"Not moisturizing enough at all, my skin still felt tight and flaky.",dry,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A837468465,2,0.0,2020-10-02,Pimples,"Gave me pimples on my forehead, had to stop using it.",dry,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A821221887,5,1.0,2020-10-05,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,normal,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A830261466,5,1.0,2020-10-11,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A806157458,4,1.0,2020-10-24,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A956665975,5,1.0,2020-10-27,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,dry,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A244096091,5,1.0,2020-11-17,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A731832764,5,1.0,2020-11-23,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A598885034,4,1.0,2020-11-24,Not worth it,"Love the packaging and it's fine overall, but nice enough but not worth the price for such a small jar.",dry,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A313736772,5,1.0,2020-11-25,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A593303705,4,1.0,2020-12-05,Smell is too strong,"Love the packaging and it's fine overall, but the fragrance is overwhelming and gave me a headache.",combination,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A677909930,5,1.0,2020-12-21,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A266140258,5,1.0,2020-12-21,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",normal,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A116944811,5,1.0,2021-01-03,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A599714064,4,1.0,2021-01-06,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A394539550,5,1.0,2021-01-09,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A640992677,5,1.0,2021-01-11,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,dry,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A567600762,5,1.0,2021-01-11,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A162196678,5,1.0,2021-01-13,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,combination,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A749715626,4,1.0,2021-01-20,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A880697625,1,0.0,2021-01-22,Pimples,"Gave me pimples on my forehead, had to stop using it.",normal,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A668503222,5,1.0,2021-01-29,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,normal,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A341096660,5,1.0,2021-02-04,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A801726890,5,1.0,2021-02-12,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A719927151,5,1.0,2021-02-14,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A835098955,5,1.0,2021-02-16,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A177390472,5,1.0,2021-02-17,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A726160204,5,1.0,2021-02-22,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A932111777,2,0.0,2021-03-03,Smell is too strong,The fragrance is overwhelming and gave me a headache.,dry,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A947425963,4,1.0,2021-03-04,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A300593456,5,1.0,2021-03-30,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A588365604,4,1.0,2021-03-31,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",normal,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A793532952,5,1.0,2021-04-12,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A546665485,5,1.0,2021-04-27,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",oily,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A669998399,5,1.0,2021-04-30,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A751396498,5,1.0,2021-05-01,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A932894596,5,1.0,2021-05-02,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A773412230,3,1.0,2021-05-03,Broke me out,Broke me out within a week. Tiny bumps all over my chin.,oily,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A922050912,4,1.0,2021-05-10,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A739830322,5,1.0,2021-05-14,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,oily,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A313907621,5,1.0,2021-05-18,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,normal,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A335493870,2,0.0,2021-05-27,Stings,"Burned and stung on application, I think it's the scent.",oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A824750726,3,0.0,2021-05-28,Irritated,Made my cheeks red and itchy. Wish it was fragrance free.,normal,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A817112652,4,1.0,2021-06-16,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,combination,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A196779973,5,1.0,2021-06-21,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A220123666,4,1.0,2021-06-23,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A952266893,5,1.0,2021-06-24,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",dry,P900011,Marula Face Oil,Velda,48.0
+A470626529,4,1.0,2021-06-24,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,dry,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A427899537,5,1.0,2021-06-25,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A641755366,4,1.0,2021-07-11,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A705495031,5,1.0,2021-07-17,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",oily,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A497478786,5,1.0,2021-07-17,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A229553265,5,1.0,2021-07-18,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900011,Marula Face Oil,Velda,48.0
+A945923902,5,1.0,2021-07-18,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A154308262,4,1.0,2021-07-20,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A907464398,5,1.0,2021-07-20,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A803066091,5,1.0,2021-07-24,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A125409494,5,1.0,2021-07-31,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A967607278,5,1.0,2021-08-05,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A461203124,5,1.0,2021-08-09,Great daily wash,Rinses off easily and my skin feels balanced after.,combination,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A735540030,3,0.0,2021-08-15,So stripping,Left my face feeling tight and squeaky after every wash.,oily,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A826197069,2,0.0,2021-08-17,Smell is too strong,The fragrance is overwhelming and gave me a headache.,oily,P900011,Marula Face Oil,Velda,48.0
+A155165334,5,1.0,2021-08-19,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,normal,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A859088046,5,1.0,2021-08-20,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,normal,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A372354893,5,1.0,2021-08-20,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A755070775,5,1.0,2021-08-23,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",normal,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A581682167,5,1.0,2021-08-25,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A666585408,2,0.0,2021-08-31,Way too heavy,This just sat on top of my skin and looked greasy by noon.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A628008852,5,1.0,2021-09-05,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,oily,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A626422169,4,1.0,2021-09-07,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A588922557,5,1.0,2021-09-18,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",dry,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A409011489,5,1.0,2021-09-28,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,normal,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A538460431,2,0.0,2021-10-04,Pimples,"Gave me pimples on my forehead, had to stop using it.",normal,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A653380476,4,1.0,2021-10-20,Way too heavy,"Love the packaging and it's fine overall, but this just sat on top of my skin and looked greasy by noon.",oily,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A362298393,4,1.0,2021-11-02,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A373506211,5,1.0,2021-11-13,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",dry,P900011,Marula Face Oil,Velda,48.0
+A446454337,5,1.0,2021-11-27,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A310777576,2,0.0,2021-11-28,Smell is too strong,The fragrance is overwhelming and gave me a headache.,dry,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A664226794,5,1.0,2021-11-28,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A197647841,5,1.0,2021-12-01,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A466034277,5,1.0,2021-12-22,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A380477683,4,1.0,2022-01-03,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,normal,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A415143362,1,0.0,2022-01-04,Not worth it,Nice enough but not worth the price for such a small jar.,normal,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A448059918,3,1.0,2022-01-09,Broke me out,Broke me out within a week. Tiny bumps all over my chin.,oily,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A865523129,5,1.0,2022-01-09,Great daily wash,Rinses off easily and my skin feels balanced after.,,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A809805235,4,1.0,2022-01-11,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A511281012,5,1.0,2022-01-11,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,dry,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A278575192,2,0.0,2022-01-12,Smell is too strong,The fragrance is overwhelming and gave me a headache.,combination,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A930071496,5,1.0,2022-01-17,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,normal,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A407209235,5,1.0,2022-01-17,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A987588450,5,1.0,2022-01-20,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,dry,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A238151258,4,1.0,2022-01-31,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A801038300,3,1.0,2022-02-01,Way too heavy,This just sat on top of my skin and looked greasy by noon.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A564520346,5,1.0,2022-02-03,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A432098383,4,1.0,2022-02-03,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A210152642,5,1.0,2022-02-07,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A873869166,4,1.0,2022-02-07,So stripping,"Love the packaging and it's fine overall, but left my face feeling tight and squeaky after every wash.",dry,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A383960237,4,1.0,2022-02-15,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A178954113,5,1.0,2022-02-24,Great daily wash,Rinses off easily and my skin feels balanced after.,combination,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A773469560,5,1.0,2022-02-28,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",dry,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A803771909,2,0.0,2022-03-07,Stings,"Burned and stung on application, I think it's the scent.",combination,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A967043303,5,1.0,2022-03-15,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A638339044,5,1.0,2022-03-16,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A635008544,5,1.0,2022-03-29,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,oily,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A852032540,5,1.0,2022-03-30,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,oily,P900001,Cloud Water Gel Moisturizer,Dewpoint Labs,38.0
+A556881239,5,1.0,2022-04-06,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",dry,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A804433388,5,1.0,2022-04-08,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A258672959,5,1.0,2022-04-10,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A161073976,5,1.0,2022-04-11,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900011,Marula Face Oil,Velda,48.0
+A741444618,5,1.0,2022-04-13,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,normal,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A819421270,2,0.0,2022-04-16,Clogged pores,Felt heavy and I think it clogged my pores. Had to wash it off.,normal,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A849621470,5,1.0,2022-04-21,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A994027897,1,0.0,2022-04-22,Pimples,"Gave me pimples on my forehead, had to stop using it.",combination,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A399496923,4,1.0,2022-04-28,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,oily,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A110899674,3,0.0,2022-05-05,Pimples,"Gave me pimples on my forehead, had to stop using it.",dry,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A326810757,5,1.0,2022-05-12,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,dry,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A472807202,4,1.0,2022-05-14,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A415429295,3,1.0,2022-05-18,Not worth it,Nice enough but not worth the price for such a small jar.,combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A929839316,5,1.0,2022-05-18,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A561784080,5,1.0,2022-05-24,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A913198930,5,1.0,2022-05-25,Great daily wash,Rinses off easily and my skin feels balanced after.,oily,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A545002643,3,0.0,2022-06-05,Smell is too strong,The fragrance is overwhelming and gave me a headache.,,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A154508960,2,0.0,2022-06-14,Not worth it,Nice enough but not worth the price for such a small jar.,combination,P900009,Midnight Balm Moisturizer,Kinso Skin,85.0
+A461178244,3,1.0,2022-06-16,Pimples,"Gave me pimples on my forehead, had to stop using it.",combination,P900011,Marula Face Oil,Velda,48.0
+A274211616,5,1.0,2022-06-19,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,normal,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A575788930,5,1.0,2022-06-19,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A705180256,5,1.0,2022-07-02,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A569948247,4,1.0,2022-07-03,Not worth it,"Love the packaging and it's fine overall, but nice enough but not worth the price for such a small jar.",oily,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A138546365,3,0.0,2022-07-07,Stings,"Burned and stung on application, I think it's the scent.",,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A433665422,5,1.0,2022-07-14,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,combination,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A933468715,5,1.0,2022-07-20,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A369639388,3,0.0,2022-07-22,Irritated,Made my cheeks red and itchy. Wish it was fragrance free.,combination,P900011,Marula Face Oil,Velda,48.0
+A797115550,2,0.0,2022-07-25,Irritated,Made my cheeks red and itchy. Wish it was fragrance free.,normal,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A133436988,5,1.0,2022-07-29,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",combination,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A963968184,4,1.0,2022-07-30,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A452108572,3,0.0,2022-08-01,Stings,"Burned and stung on application, I think it's the scent.",normal,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A364814270,5,1.0,2022-08-09,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",dry,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A303805386,5,1.0,2022-08-13,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A257243284,1,0.0,2022-08-14,Broke me out,Broke me out within a week. Tiny bumps all over my chin.,dry,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A889924866,4,1.0,2022-08-23,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,dry,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A599154414,5,1.0,2022-08-25,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",oily,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A314061901,5,1.0,2022-08-27,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,normal,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A215424112,4,1.0,2022-09-01,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",normal,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A400368694,5,1.0,2022-09-03,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,oily,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A278933456,5,1.0,2022-09-15,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A233815413,4,1.0,2022-09-22,Pimples,"Love the packaging and it's fine overall, but gave me pimples on my forehead, had to stop using it.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A711072118,3,1.0,2022-09-23,Not worth it,Nice enough but not worth the price for such a small jar.,combination,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A155239803,4,1.0,2022-09-24,Stings,"Love the packaging and it's fine overall, but burned and stung on application, I think it's the scent.",dry,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A695295870,5,1.0,2022-09-27,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A664852025,4,1.0,2022-09-30,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A229927269,5,1.0,2022-10-07,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A373221357,5,1.0,2022-10-09,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,normal,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A509123009,3,1.0,2022-10-09,Not worth it,Nice enough but not worth the price for such a small jar.,dry,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A122275263,3,1.0,2022-10-12,Irritated,Made my cheeks red and itchy. Wish it was fragrance free.,combination,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A907873857,5,1.0,2022-10-17,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A471048258,5,1.0,2022-10-19,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,oily,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A148766522,5,1.0,2022-10-20,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A172191273,2,0.0,2022-10-20,Way too heavy,This just sat on top of my skin and looked greasy by noon.,oily,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A579691987,3,1.0,2022-10-25,They changed it,"The new formula is not the same, it feels different and broke me out.",oily,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A839393192,4,1.0,2022-11-03,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A785811060,4,1.0,2022-11-06,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,combination,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A191462297,5,1.0,2022-11-06,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,normal,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A890099255,5,1.0,2022-11-15,Great daily wash,Rinses off easily and my skin feels balanced after.,combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A848605284,1,0.0,2022-11-15,They changed it,"The new formula is not the same, it feels different and broke me out.",combination,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A996139578,1,0.0,2022-11-16,Irritated,Made my cheeks red and itchy. Wish it was fragrance free.,oily,P900003,Daily Dew Oil-Free Gel,Lumen Botanics,28.0
+A932734539,5,1.0,2022-11-29,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,oily,P900011,Marula Face Oil,Velda,48.0
+A436824737,5,1.0,2022-12-05,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A230311939,5,1.0,2022-12-05,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A338836384,5,1.0,2022-12-07,Holy grail,Absorbs quickly and my skin feels soft all day. Already on my second jar.,combination,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A845178074,2,0.0,2022-12-12,Greasy mess,"Way too rich for me, my face was an oil slick within an hour.",oily,P900004,Velvet Night Repair Cream,Lumen Botanics,68.0
+A490732457,5,1.0,2022-12-20,Repurchase for sure,My redness calmed down after two weeks. Worth every penny.,combination,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A133729406,4,1.0,2022-12-20,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,combination,P900008,Glacier Water Cream,Harbor & Fern,42.0
+A504456327,3,1.0,2022-12-22,Too harsh,"Way too harsh, my skin felt stripped and dry after cleansing.",combination,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A422076028,5,1.0,2022-12-24,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",normal,P900011,Marula Face Oil,Velda,48.0
+A534900128,4,1.0,2022-12-24,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",normal,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A996278008,5,1.0,2023-01-07,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A240409084,5,1.0,2023-01-11,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,dry,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A984053945,5,1.0,2023-01-12,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",,P900013,Deep Clean Foaming Wash,Kinso Skin,30.0
+A578796089,3,0.0,2023-01-13,Too harsh,"Way too harsh, my skin felt stripped and dry after cleansing.",normal,P900015,Clarifying Gel Cleanser,Lumen Botanics,26.0
+A306442077,5,1.0,2023-01-16,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,normal,P900012,Hydra Jelly Moisturizer,Velda,32.0
+A156488296,4,1.0,2023-01-17,Nice texture,"Lightweight, sinks right in, and my face feels plump in the morning.",dry,P900006,Whipped Hydration Gel-Cream,Oat & Ember,26.0
+A609587361,3,1.0,2023-01-25,Broke me out,Broke me out within a week. Tiny bumps all over my chin.,oily,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A793663866,1,0.0,2023-02-22,Clogged pores,Felt heavy and I think it clogged my pores. Had to wash it off.,normal,P900005,Oat Milk Comfort Cream,Oat & Ember,24.0
+A384161612,5,1.0,2023-02-24,Love it,Finally a moisturizer that doesn't irritate me. My skin looks so much healthier.,normal,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A332341238,2,0.0,2023-03-02,Broke me out,Broke me out within a week. Tiny bumps all over my chin.,dry,P900007,Ceramide Cushion Moisturizer,Harbor & Fern,45.0
+A812630453,5,1.0,2023-03-06,Love it,"Leaves my face clean and soft, never irritated. A little goes a long way.",combination,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A751831074,5,1.0,2023-03-07,So good,Keeps me hydrated without feeling sticky. Works great under makeup too.,oily,P900002,Barrier Rescue Rich Cream,Dewpoint Labs,52.0
+A958872154,5,1.0,2023-03-15,Gentle and effective,Removes my makeup and sunscreen without leaving my skin tight.,,P900014,Gentle Milk Cleanser,Oat & Ember,18.0
+A922286180,5,1.0,2023-03-20,Great daily wash,Rinses off easily and my skin feels balanced after.,dry,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
+A766964667,3,0.0,2023-03-20,Not enough,"Not moisturizing enough at all, my skin still felt tight and flaky.",dry,P900010,Featherlight Daily Lotion,Kinso Skin,55.0
+A793527609,2,0.0,2023-03-29,Pimples,"Gave me pimples on my forehead, had to stop using it.",normal,P900016,Cloud Cream Cleanser,Dewpoint Labs,29.0
