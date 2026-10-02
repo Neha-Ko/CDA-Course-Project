@@ -2,7 +2,8 @@
 
 ## Problem Statement
 
-Sephora's digital merchandising team wants skincare shoppers to find products that work for their skin on the first try. When a product is a poor match, such as a stripping cleanser for sensitive skin or a heavy cream for oily skin, customers leave negative reviews, return products, and may shop elsewhere. Sephora's recommendation quiz, product filters, and seasonal campaigns could make better use of what reviewers say about why products fail for their skin type. This project analyzes moisturizer and cleanser reviews to identify complaints concentrated by skin type, ingredient, brand, and season, so the team can refine quiz recommendations, filters, and campaign timing.
+Sephora's digital product team wants skincare shoppers to find products that work for their skin on the first try. When a product is a poor match, such as a stripping cleanser for dry skin or a heavy cream for oily skin, customers leave negative reviews, return products, and may shop elsewhere. Sephora's recommendation quiz and product filters could make better use of what reviewers say about why products fail for their skin type. This project analyzes moisturizer and cleanser reviews to identify complaints concentrated by skin type, ingredient, brand, and season, so the team can refine quiz recommendations and filters.
+
 
 **Why it matters:** Better product-to-skin matching can reduce returns and negative reviews and improve customer satisfaction.
 
