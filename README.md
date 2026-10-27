@@ -2,7 +2,6 @@
 
 **Topic:** Sentiment analysis of Sephora skincare reviews to identify skin-type-specific complaints and improve product recommendations
 
-*Graduate final project. Analysis path B: Understanding/Extraction.*
 
 ## Problem Statement
 
@@ -45,6 +44,7 @@ The cleaned dataset is included in `Data/` as a compressed CSV. The raw data (ab
 │   ├── 1_Build_Final_Dataset.ipynb   # download, filter, deduplicate, clean
 │   ├── 2_Data_Exploration.ipynb      # basic stats, text length, skin type mix
 │   ├── 3_Text_Mining.ipynb           # preprocessing, keywords, sentiment, Phase 3 plan
+│   └── *.html                        # HTML exports of each notebook
 ├── src/
 │   ├── utils.py           # data loading and plotting helpers
 │   └── preprocessing.py   # text cleaning for keyword and sentiment analysis
