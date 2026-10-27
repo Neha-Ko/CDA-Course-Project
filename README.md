@@ -1,31 +1,76 @@
-# What Reviews Reveal About Skin-Type Fit: Sephora Skincare Review Mining
+# What Reviews Reveal About Skin-Type Fit: Sephora Moisturizer Review Mining
+
+**Topic:** Sentiment analysis of Sephora skincare reviews to identify skin-type-specific complaints and improve product recommendations
+
+*Graduate final project. Analysis path B: Understanding/Extraction.*
 
 ## Problem Statement
 
-Sephora's digital product team wants skincare shoppers to find products that work for their skin on the first try. When a product is a poor match, such as a stripping cleanser for dry skin or a heavy cream for oily skin, customers leave negative reviews, return products, and may shop elsewhere. Sephora's recommendation quiz and product filters could make better use of what reviewers say about why products fail for their skin type. This project analyzes moisturizer and cleanser reviews to identify complaints concentrated by skin type, ingredient, brand, and season, so the team can refine quiz recommendations and filters.
-
-
-**Why it matters:** Better product-to-skin matching can reduce returns and negative reviews and improve customer satisfaction.
+Sephora's digital product team wants skincare shoppers to find products that work for their skin on the first try. When a product is a poor match, such as a heavy cream for oily skin or a light gel for dry skin, customers leave negative reviews, return products, and may shop elsewhere. Sephora's skincare quiz and product filters could make better use of what reviewers say about why products fail for their skin type. This project analyzes moisturizer reviews to identify complaints that are concentrated in specific skin types for the same product, so the team can turn them into concrete quiz and filter rules.
 
 ## Dataset
 
 | | |
 |---|---|
-| **Source** | Kaggle, [Sephora Products and Skincare Reviews](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews) |
-| **Rows** | About 1M skincare reviews in total; filtered to moisturizers (and cleansers, if time allows). Final count TBD after cleaning |
-| **Key columns (products csv)** | Product ID, product name, brand name, price, ingredients, highlights, review count, primary/secondary/tertiary category |
-| **Key columns (reviews csv)** | Rating, is recommended, submission time, skin type, review title, review text, product ID |
-| **Text fields** | Review text and review title; product ingredient lists |
+| **Source** | Kaggle, [Sephora Products and Skincare Reviews](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews) (scraped March 2023) |
+| **Scope** | Moisturizers only (Moisturizers and Night Creams subcategories) |
+| **Cleaned size** | 184,664 reviews of 379 products from 90 brands, 2008–2023 |
+| **Text fields** | Review title and review text |
+| **Key columns** | Rating, submission date, skin type, product, brand, price, ingredients |
 | **Target variable** | None (Path B) |
-| **Segments** | Skin type, brand, price tier, season/year |
 
-The two files are joined on `product_id`. Categories are used to filter to moisturizers and cleansers.
+The cleaned dataset is included in `Data/` as a compressed CSV. The raw data (about 1 million skincare reviews across six files) is not included because of its size; notebook 1 downloads it automatically from Kaggle.
 
-## Analysis Path
+## Progress
 
-This project follows Path B: Understanding/Extraction. Rather than predicting ratings, the goal is to identify which complaints drive negative sentiment in skincare reviews and whether they are concentrated among specific skin types, ingredients, brands, and seasons. The analysis will combine keyword and frequency analysis, sentiment analysis, topic modeling, and ingredient extraction from product data. It will also test whether patterns hold across years and segments, so Sephora's merchandising team gets findings specific enough to act on in its quiz, filters, and campaign timing. The primary focus will be moisturizers by skin type and ingredient, followed by brand and seasonal comparisons, with cleansers added as a secondary category if time allows. The final scope will be confirmed after data cleaning, since some segments may not have enough reviews to support reliable comparisons.
+**Phase 1: Proposal** ✅
 
+**Phase 2: Exploration and text mining** ✅
+- **Dataset build:** filtered to moisturizers, removed about 10,300 reviews duplicated across mini and full-size product pages, and dropped reviews missing text, skin type, or ingredients.
+- **Exploration:** skin types are imbalanced (54.5% combination, 11.2% oily), and shoppers already choose products by skin type. For example, Clinique's Moisturizing Gel draws 28% of its reviews from oily skin, while its Lotion+ draws 30% from dry skin. The analysis therefore compares complaint rates by skin type *within the same product*.
+- **Keyword analysis:** low-rated reviews are marked by "broke" (breakouts), "not work," and "not worth." Oily-skin reviewers more often mention acne and greasiness, and dry-skin reviewers more often mention products not moisturizing enough.
+- **Baseline sentiment (VADER):** follows star ratings only weakly (rank correlation 0.36) and scores 55% of 1–2 star reviews as positive, missing skincare-specific complaints like "pilled" or "broke me out." Star ratings serve as the satisfaction measure instead.
 
-## Project Status
+**Phase 3: Complaint labeling and findings** (next)
+- Use Claude to label every review in a stratified sample of 8,000 (20 products × 4 skin types × 100 reviews) with one or more complaint categories, or "no complaint."
+- Hand-check about 100 labels for accuracy.
+- Compare complaint rates across skin types within each product and turn the clearest gaps into quiz and filter recommendations.
 
-**Phase 1:** Problem definition, dataset selection, and repo setup. 
+## Repository Structure
+
+```
+├── Data/
+│   └── sephora_moisturizer_reviews_clean.csv.gz   # cleaned dataset
+├── Notebooks/
+│   ├── 1_Build_Final_Dataset.ipynb   # download, filter, deduplicate, clean
+│   ├── 2_Data_Exploration.ipynb      # basic stats, text length, skin type mix
+│   ├── 3_Text_Mining.ipynb           # preprocessing, keywords, sentiment, Phase 3 plan
+├── src/
+│   ├── utils.py           # data loading and plotting helpers
+│   └── preprocessing.py   # text cleaning for keyword and sentiment analysis
+├── requirements.txt
+├── LICENSE
+└── README.md
+```
+
+## How to Run
+
+1. **Clone the repository** and open the project folder.
+2. **Create and activate a virtual environment, then install packages:**
+   ```
+   python3 -m venv .venv
+   source .venv/bin/activate        # on Windows: .venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
+3. **Add a Claude API key** (needed only for the Claude cells in notebook 3). Create a file named `.env` in the project folder containing:
+   ```
+   ANTHROPIC_API_KEY=your-key-here
+   ```
+   This file is excluded from Git by `.gitignore`. The Claude cells are switched off by default (`RUN_CLAUDE = False`), so notebook 3 runs without a key.
+4. **Run the notebooks in order**, using the `.venv` kernel:
+   - **Notebook 1** is optional, since the cleaned dataset is already in `Data/`. Running it downloads the full raw dataset from Kaggle (requires a Kaggle account and several GB of disk space) and recreates the cleaned file.
+   - **Notebooks 2 and 3** load the cleaned dataset from `Data/` and run in a few minutes.
+
+## License
+
+MIT License. See `LICENSE`.
