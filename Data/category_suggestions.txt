@@ -1,0 +1,37 @@
+Here are 9 complaint categories that together cover most of the product-focused complaints in these reviews.
+
+**1. breakouts_clogged_pores**
+Reviewer reports that the product caused new breakouts, bumps, or clogged pores.
+Example: "it made me break out little tiny bumps all over my face"
+
+**2. greasy_heavy_texture**
+The product feels thick, greasy, or heavy on the skin, or sits on top rather than absorbing.
+Example: "it just feels greasy and sticky"
+
+**3. poor_absorption**
+The product does not sink into the skin and leaves a surface film or residue that persists over time.
+Example: "it sits on the surface for a long time, rather than being absorbed"
+
+**4. insufficient_hydration**
+The product fails to provide lasting moisture, leaving skin feeling dry, tight, or unmoisturized shortly after application.
+Example: "my skin feels so dry! Like I feel like it made my skin feel worse than before"
+
+**5. strong_fragrance_odor**
+The scent is overpowering, sweet, petroleum-like, or otherwise unpleasant or irritating.
+Example: "heavily perfumed... there is no reason for all the perfume"
+
+**6. skin_irritation_sensitivity**
+The product caused irritation, redness, or reactions, including from specific ingredients.
+Example: "The metals (aka tin oxide) in this product made me break out"
+
+**7. pilling_mixing_issues**
+The product pills or balls up under makeup or sunscreen, or does not mix well with other products.
+Example: "this product pilled constantly off my face"
+
+**8. oily_shine_residue**
+The product leaves skin oilier, shinier, or sticky for hours after application.
+Example: "my skin looks so oily and shiny"
+
+**9. poor_value_price**
+Reviewer considers the product overpriced or a poor value, often because it runs out quickly or underdelivers.
+Example: "this is a complete rip off. My container is completely empty within a month"
