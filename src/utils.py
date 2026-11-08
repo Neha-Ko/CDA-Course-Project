@@ -37,9 +37,10 @@ def clean_axes(ax, grid_axis=None):
         ax.set_axisbelow(True)
 
 
-def plot_barh(series, title, xlabel, fmt="{:.1f}", color="#C8325A", figsize=(9, 5)):
+def plot_barh(series, title, xlabel, fmt="{:.1f}", color="#C8325A", figsize=(9, 5), save_path=None):
     """Horizontal bar chart with a value label on each bar, largest value at the top.
-    fmt controls the label format, e.g. "{:.1f}%" for percentages or "{:.2f}" for ratings."""
+    fmt controls the label format, e.g. "{:.1f}%" for percentages or "{:.2f}" for ratings.
+    save_path, if given, also saves the chart as an image (e.g. "../Figures/chart.png")."""
     s = series.sort_values()
     ax = s.plot(kind="barh", color=color, figsize=figsize)
     offset = s.abs().max() * 0.01   # small gap between each bar and its label
@@ -50,4 +51,6 @@ def plot_barh(series, title, xlabel, fmt="{:.1f}", color="#C8325A", figsize=(9, 
     ax.set_ylabel("")
     clean_axes(ax)
     plt.tight_layout()
+    if save_path:
+        plt.savefig(save_path, dpi=200, bbox_inches="tight")
     plt.show()
