@@ -53,7 +53,7 @@ The cleaned dataset and Claude's saved labels are included in `Data/`. The raw d
 │   ├── 3_Text_Mining.ipynb          # preprocessing, keywords, sentiment, Phase 3 plan
 │   ├── 4_Claude_Labeling.ipynb      # sample, categories, blind test, batch labeling, cost
 │   ├── 5_Final_Report.ipynb         # final report: analysis, findings, recommendations
-│   └── *.html                       # HTML exports of each notebook
+│   └── HTML_Exports/                # HTML export of each notebook
 ├── src/
 │   ├── utils.py           # data loading and plotting helpers
 │   └── preprocessing.py   # text cleaning for keyword and sentiment analysis
